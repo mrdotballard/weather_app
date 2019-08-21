@@ -1,8 +1,12 @@
 {
-  "name": "weather_app_cli",
+  "name": "weather_app",
   "version": "1.0.0",
-  "description": "CLI app to display weather for selected city",
-  "main": "app_cli.js",
+  "engines": {
+    "node": "10.16.0"
+  },
+  "private": true,
+  "description": "Web app to display weather for selected city",
+  "main": "app_site.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
