@@ -8,7 +8,7 @@
   "description": "Web app to display weather for selected city",
   "main": "app_site.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app_site.js"
   },
   "author": "",
   "license": "ISC",
